@@ -1,0 +1,11 @@
+Fibonacci dizisi, doğada ve matematikte sıkça karşılaşılan bir sayı dizisidir. Bu dizide, her sayı, kendisinden önce gelen iki sayının toplamına eşittir. Yani, dizinin ilk birkaç sayısı şöyledir: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610...
+
+Bu sayı dizisi, altın oranla da doğrudan ilişkilidir. Altın oran, bir şeyin iki parçası arasındaki oranın, daha büyük parçanın tamamlayıcısı olan daha küçük parçaya oranıdır. Matematiksel olarak ifade edilirse, altın oranın değeri yaklaşık 1,618'dir.
+
+fibonacci dizisindeki sayıları kendisinden önceki sayıya böldüğümüzde bir süre sonra her bölümün sonucunun sabit şekilde 1,618 çıkmasıyla altın orana ulaşırız. 
+
+Fibonacci dizisi, altın oranla ilgili olduğu için birçok yerde kullanılır. Örneğin, çiçeklerin yaprak sayıları, yaprakların düzeni, deniz kabuklarının şekilleri ve hatta insan vücudu gibi doğadaki birçok şeyde Fibonacci sayıları ve altın oran bulunur.
+
+Bununla birlikte, altın oran, matematikte ve sanatta da kullanılır. Altın oran, bir nesnenin estetik olarak hoş görünmesi için ideal oranı sağlamak için kullanılabilir. Altın oran, sanat eserlerinde, mimaride, müzikte ve diğer alanlarda sıkça kullanılır.
+
+Özetle, Fibonacci dizisi ve altın oran, matematik, doğa, sanat ve diğer alanlarda sıkça kullanılan kavramlardır. Fibonacci dizisi, doğada sıkça görülen bir sayı dizisidir ve altın oranla doğrudan ilişkilidir. Altın oran, nesnelerin estetik açıdan hoş görünmesi için ideal oranı sağlamak için kullanılır. Bu nedenle, Fibonacci dizisi ve altın oran, hayatımızın birçok farklı yönünde önemli bir rol oynamaktadır.
